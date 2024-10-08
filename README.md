@@ -30,3 +30,18 @@ java OrganizedStack
 4. The sorted integers are stored in a “Stack.”
 5. Finally, the sorted integers are displayed as they are stored in the stack.
 
+## Explanation of the code
+
+### main() method
+
+This method follows these steps:
+
+1. Prompts the user for a list of integers.
+2. Reads the integers and handles any input errors.
+3. Sorts the integers in ascending order.
+4. Stores the sorted integers in a `Stack`.
+5. Displays the sorted integers in the stack.
+
+### readIntegerInput() method:
+
+This method reads a list of integers from the user's input, handles potential input errors, and allows the user to end input by typing "finish."
