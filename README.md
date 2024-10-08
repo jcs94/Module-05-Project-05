@@ -27,7 +27,7 @@ java OrganizedStack
 1. The program displays a message asking the user to enter a list of integers separated by spaces and instructs them to type "finish" to end the input.
 2. It reads the integers entered by the user, handling potential errors such as invalid characters or non-integer values. It continues reading input until the user types "finish."
 3. It sorts the collected integers in ascending order.
-4. The sorted integers are stored in a “Stack.”
+4. The sorted integers are stored in a stack.
 5. Finally, the sorted integers are displayed as they are stored in the stack.
 
 ## Explanation of the code
@@ -39,7 +39,7 @@ This method follows these steps:
 1. Prompts the user for a list of integers.
 2. Reads the integers and handles any input errors.
 3. Sorts the integers in ascending order.
-4. Stores the sorted integers in a `Stack`.
+4. Stores the sorted integers in a stack.
 5. Displays the sorted integers in the stack.
 
 ### readIntegerInput() method:
