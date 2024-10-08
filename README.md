@@ -1,6 +1,6 @@
 # Module-05-Project-05
 
-# OrganizedStack
+## OrganizedStack
 
 This project reads integers from user input, sorts them, and stores them in a stack. It shows the transition from using a “LinkedList” to a “Stack.”
 
