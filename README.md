@@ -21,3 +21,12 @@ javadoc OrganizedStack.java
 
 Command to run the program:
 java OrganizedStack
+
+## How It Works
+
+1. The program displays a message asking the user to enter a list of integers separated by spaces and instructs them to type "finish" to end the input.
+2. It reads the integers entered by the user, handling potential errors such as invalid characters or non-integer values. It continues reading input until the user types "finish."
+3. It sorts the collected integers in ascending order.
+4. The sorted integers are stored in a “Stack.”
+5. Finally, the sorted integers are displayed as they are stored in the stack.
+
